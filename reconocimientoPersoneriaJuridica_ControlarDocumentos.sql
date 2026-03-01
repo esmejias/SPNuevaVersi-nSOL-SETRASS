@@ -9,7 +9,7 @@ CREATE PROCEDURE dbo.reconocimientoPersoneriaJuridica_ControlarDocumentos
 AS
 BEGIN
 
-/* 
+/*
 Autora: Dayana Fernández
 Trámite: RECONOCIMIENTO E INSCRIPCIÓN DE PERSONERÍA JURÍDICA
 Modificado por: Samantha Mejía
