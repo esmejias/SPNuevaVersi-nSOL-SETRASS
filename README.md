@@ -1,1 +1,0 @@
-# SPNuevaVersi-nSOL-SETRASS
